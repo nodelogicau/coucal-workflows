@@ -1,24 +1,22 @@
 # Coucou Teams
 
-Asset and resource management for collaborative teams
+Work tracking and project management for collaborative teams
 
 ## Overview
 
-Coucou Teams is designed to support intra- and inter-team collaboration via project planning
-and work tracking functions.
+Coucou Teams is designed to provide a space for all your communications within and between highly collaborative teams.
+Team administrators create shared collections for tracking projects, engagements, services, etc.
 
-## Projects
-
-TBD.
+Team members can manage subscriptions to these shared collections in order to receive notifications of changes and
+participate in workflows, etc.
 
 ## Teams
 
-TBD.
+Teams are defined by administrators as a group of users that should have access to a team's collections. When a member
+is removed from a team they will no longer be able to view team collections.
 
 ## Subscriptions
 
-TBD.
+Users are provided the option to subscribe to all collections from the teams they are included in. Once subscribed a team
+member will receive notifications of work planning, tasks and other collection-based activities.
 
-## Services
-
-TBD.
