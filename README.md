@@ -20,3 +20,13 @@ is removed from a team they will no longer be able to view team collections.
 Users are provided the option to subscribe to all collections from the teams they are included in. Once subscribed a team
 member will receive notifications of work planning, tasks and other collection-based activities.
 
+## Collections
+
+Collections are general purpose spaces for managing work and collaboration. Some examples may include:
+
+- Issue tracker for a support team relating to a specific product or service
+- Project planner for new initiatives, feature enhancements, etc.
+- Asset management, including hardware, software or other assets
+- Team ceremonies, including regular meetings, important dates, etc.
+- Metrics tracking
+- ...
