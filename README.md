@@ -28,5 +28,7 @@ Collections are general purpose spaces for managing work and collaboration. Some
 - Project planner for new initiatives, feature enhancements, etc.
 - Asset management, including hardware, software or other assets
 - Team ceremonies, including regular meetings, important dates, etc.
-- Metrics tracking
+- Work tracking including timesheets, SLA metrics
+- Roster and availability for support, leave register, checkins, presence, etc.
+- Knowledge base for team activities and resorces
 - ...
