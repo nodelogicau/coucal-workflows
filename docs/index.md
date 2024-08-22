@@ -15,3 +15,31 @@ The UI consists of three primary panes, supporting navigation and filtering, cre
 - /`<collection>`/`<uid>`/edit - form for editing object fields
 - /`<collection>`/new - create a new object using creation form
 
+## Commmon Functions
+
+The following areas are common to all URLs.
+
+## Workspace Explorer
+
+Navigate folders and collections within a workspace. Selection of a collection triggers populating
+the view area. Selection of folders/collections also enables applicable actions.
+
+## Action Bar
+
+Contextual actions enabled based on the current view.
+
+Folder actions:
+- Create folder
+- Create collection
+- Rename folder
+- Delete folder
+
+Collection actions:
+- Create object
+- Rename collection
+- Delete collection
+
+Object actions:
+- Create linked object
+- Delete object
+
