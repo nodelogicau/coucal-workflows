@@ -50,16 +50,19 @@ Contextual actions enabled based on the current view.
 - Create object
 - Rename collection
 - Delete collection
+- Switch collection view
 
 ### Filter actions
 
 - Edit filter
 - Rename filter
+- Switch filter view
 
 ### Object actions
 
 - Create linked object
 - Delete object
+- Switch object view
 
 ## View Area
 
