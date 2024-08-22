@@ -28,7 +28,9 @@ The following areas are common to all URLs.
 
 ## Workspace Explorer
 
-Switch between Workspaces. Navigate folders and collections within a workspace. Selection of a collection triggers
+Switch between Workspaces. configure workspace options.
+
+Navigate folders and collections within a workspace. Selection of a collection triggers
 populating the view area. Selection of folders/collections also enables applicable actions.
 
 Also navigate between filters in a workspace. Filter selection triggers population of the view area with filter results.
@@ -74,6 +76,14 @@ Shown when no collection is selected. This view lists all collections in the cur
 relevant details such as object count, supported object types, default timezone, etc.
 
 Also list filters in the current workspace with relevant details (e.g. object count).
+
+### Workspace Options View
+
+configure workspace options for current workspace. 
+
+- members, control who has access to the workspace and roles/permissions
+- channels, configure integrations such as email, websub, xmpp, etc.
+- workflows, automated actions triggered by events
 
 ### Collection Views
 
