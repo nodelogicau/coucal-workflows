@@ -15,6 +15,13 @@ The UI consists of three primary panes, supporting navigation and filtering, cre
 - /`<collection>`/`<uid>`/edit - form for editing object fields
 - /`<collection>`/new - create a new object using creation form
 
+## cookies
+
+- current workspace
+- collection view
+- filter view
+- object view
+
 ## Commmon Functions
 
 The following areas are common to all URLs.
