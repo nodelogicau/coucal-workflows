@@ -10,8 +10,8 @@ The UI consists of three primary panes, supporting navigation and filtering, cre
 ## urls
 
 - / - worspace overview/dashboard. include collections, filters, members, etc
-- /<collection> - list objects in a collection. apply filters, sorting, etc.
-- /<collection>/<uid> - show object details using template for object type.
-- /<collection>/<uid>/edit - form for editing object fields
-- /<collection>/new - create a new object using creation form
+- /`<collection>` - list objects in a collection. apply filters, sorting, etc.
+- /`<collection>`/`<uid>` - show object details using template for object type.
+- /`<collection>`/`<uid>`/edit - form for editing object fields
+- /`<collection>`/new - create a new object using creation form
 
