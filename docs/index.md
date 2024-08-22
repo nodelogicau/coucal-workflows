@@ -82,3 +82,5 @@ Supports column sorting, filtering, paging, etc.
 Use available templates to render object details. Templates can range from generic (VEVENT, VTODO, VJOURNAL, VCARD, VAVAILABILITY, etc.)
 to specific (meeting, agenda, action, note, issue, risk, decision, etc.).
 
+Some Object Views may also render details on linked objects, such as where there is a parent/child relationship. Such views include
+Epic, Milestone, Feature, Objective, Initiative, etc.
