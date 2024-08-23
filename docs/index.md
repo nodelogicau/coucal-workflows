@@ -53,11 +53,13 @@ Contextual actions enabled based on the current view.
 - Rename collection
 - Delete collection
 - Switch collection view
+- Save as filter
 
 ### Filter actions
 
 - Edit filter
 - Rename filter
+- Delete filter
 - Switch filter view
 
 ### Object actions
