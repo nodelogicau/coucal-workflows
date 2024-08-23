@@ -83,9 +83,11 @@ Also list filters in the current workspace with relevant details (e.g. object co
 
 configure workspace options for current workspace. 
 
-- members, control who has access to the workspace and roles/permissions
+- members, control who has access to the workspace
+- roles, manage fine-grained permissions
 - channels, configure integrations such as email, websub, xmpp, etc.
 - workflows, automated actions triggered by events
+- api tokens, for service integration with coucal apis
 
 ### Collection Views
 
